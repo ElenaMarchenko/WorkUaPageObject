@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Send CV" skipped="0" tests="1" time="6.99" timestamp="2020-09-02 09:16:01"><testcase name="I as a job seeker WTBAT send my CV and apply for  job"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+steps.MainPageSteps.FillSearchBarWithPosition(MainPageSteps.java:42)&#13;
+stepdefinitions.MainPageStepDef.FillSearchBarWithPosition(MainPageStepDef.java:26)&#13;
+✽.Fill search bar with position(src/test/resources/features/smoke/Smoke_send_CV.feature:5)&#13;
+</system-err></testcase></testsuite>
